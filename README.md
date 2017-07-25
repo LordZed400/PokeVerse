@@ -6,20 +6,20 @@ This is a game made in **GameMaker Studio**, inspired by famous games like *Poke
 This game uses *custom* sprites made by the original creator **JoshR691**.  
 
 Creatures from the Pokémon world want to battle each other, but this time, they take a little *Hands on* approach.  
-![Game](https://github.com/LordZed400/PokeVerse/blob/master/Screenshots/Screenshot-5.png "")  
+![The Game](https://github.com/LordZed400/PokeVerse/blob/master/Screenshots/Screenshot-6.png "Actual Game")  
 
 ## Features
 - A Rotating Character selection screen, with a roster of 4 Pokémons  
-![Game](https://github.com/LordZed400/PokeVerse/blob/master/Screenshots/Screenshot-3.png "")  
+![The Game](https://github.com/LordZed400/PokeVerse/blob/master/Screenshots/Screenshot-3.png "Character Selection")  
 
 - Fully animated sprites for Idle, Walking and Attacking Animation.  
-![Game](https://github.com/LordZed400/PokeVerse/blob/master/Screenshots/Screenshot-8.png "")  
+![Character Selection Screen](https://github.com/LordZed400/PokeVerse/blob/master/Screenshots/Screenshot-8.png "Battle 1")  
 
 - Features Meelee as well as Special Attacks with varying damage..  
-![Game](https://github.com/LordZed400/PokeVerse/blob/master/Screenshots/Screenshot-9.png "")  
+![The Game](https://github.com/LordZed400/PokeVerse/blob/master/Screenshots/Screenshot-9.png "Battle 2")  
 
 - Pallete Swaps for same Pokémon chosen as P1 and P2.  
-![Game](https://github.com/LordZed400/PokeVerse/blob/master/Screenshots/Screenshot-10.png "")  
+![The Game](https://github.com/LordZed400/PokeVerse/blob/master/Screenshots/Screenshot-10.png "Battle 3")  
 
 
 
